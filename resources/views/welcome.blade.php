@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel <img src="{{asset('image/logo.png')}}" alt="">
+                    My Cart <img src="{{asset('image/logo.png')}}" alt="">
                 </div>
 
                 <div class="links">
